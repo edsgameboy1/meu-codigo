@@ -1,2 +1,2 @@
-> # Estou aprendendo a usar o Github#
+> # Estou aprendendo a usar o Github
 >
